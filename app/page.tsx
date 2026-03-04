@@ -67,7 +67,7 @@ const questions: Question[] = [
   {
     text: "Which Star Wars character are you?",
     answers: [
-      { emoji: "⚔️", label: "Rey — fierce and determined", type: "bold" },
+      { emoji: "⚔️", label: "Anakin Skywalker — passionate and driven", type: "bold" },
       { emoji: "🤖", label: "C-3PO — precise and knowledgeable", type: "artisan" },
       { emoji: "🚀", label: "Han Solo — practical and resourceful", type: "pragmatist" },
       { emoji: "🌿", label: "Yoda — wise and peaceful", type: "cozy" },
